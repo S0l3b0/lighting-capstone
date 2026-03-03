@@ -1,8 +1,11 @@
 function Navbar() {
     return (
-        <nav class="fixed top-0 bg-gray-800/50 w-screen">
-            <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
-                <button> </button>
+        <nav class="fixed top-0 bg-indigo-900/50 w-screen">
+            <div>
+                <button className="m-5">Home</button>
+                <button className="m-5">Lighting Plot</button>
+                <button className="m-5">Notes</button>
+                <button className="m-5">Archive</button>
             </div>
         </nav>
     )
