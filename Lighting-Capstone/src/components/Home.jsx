@@ -1,6 +1,6 @@
 function Home() {
     return (
-        <div className="relative w-screen ">
+        <div className="w-screen">
             <h1 className="mx-auto text-center ">Lighting Inventory</h1>
             <div className="text-center mt-10">
                 <p >By:</p>

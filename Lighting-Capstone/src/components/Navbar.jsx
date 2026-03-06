@@ -1,6 +1,6 @@
 function Navbar() {
     return (
-        <nav class="fixed top-0 bg-indigo-900/50 w-screen">
+        <nav class="object-top bg-indigo-950 w-screen">
             <div>
                 <button className="m-5">Home</button>
                 <button className="m-5">Lighting Plot</button>
