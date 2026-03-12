@@ -1,8 +1,4 @@
-const name = "";
-const job = "";
-const blurb = "";
-
-function profile() {
+function Profile({name, job, blurb}) {
     return (
       <div class ="profile_crd">
         <h3>{name}, {job}</h3>
@@ -10,4 +6,4 @@ function profile() {
       </div>
     );
 };
-export default profile;
+export default Profile;
