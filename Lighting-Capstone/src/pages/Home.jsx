@@ -15,7 +15,6 @@ function Home() {
           </ol>
         </div>
         <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgbucBLhpnT_kbagut7MMgipsZLx1e20egOw&s' className="mx-auto mt-10" />
-
       </div>
       <div className='flex space-x-50 text-center justify-center'>
         <Profile
